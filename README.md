@@ -52,10 +52,10 @@ for use. To run any given cell, simply select the cell and click on the 'Run' ic
 <br>
 <br>
 ***To view the project only, click on the following link:*** <br>
-https://nbviewer.org/...
+https://nbviewer.org/github/Mo-Khalifa96/Web-Scraping-and-Analyzing-Stock-Data/blob/main/Web%20Scraping%20%26%20Analyzing%20Stock%20Data%20%28Jupyter%20version%29.ipynb
 <br>
 <br>
 ***Alternatively, to view the project and interact with its code, click on the following link:*** <br>
-https://mybinder.org/...
+https://mybinder.org/v2/gh/Mo-Khalifa96/Web-Scraping-and-Analyzing-Stock-Data/main?labpath=Web%20Scraping%20%26%20Analyzing%20Stock%20Data%20(Jupyter%20version).ipynb
 <br>
 <br>
