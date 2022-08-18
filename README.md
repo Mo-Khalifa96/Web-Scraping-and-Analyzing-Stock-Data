@@ -59,3 +59,4 @@ https://nbviewer.org/github/Mo-Khalifa96/Web-Scraping-and-Analyzing-Stock-Data/b
 https://mybinder.org/v2/gh/Mo-Khalifa96/Web-Scraping-and-Analyzing-Stock-Data/main?labpath=Web%20Scraping%20%26%20Analyzing%20Stock%20Data%20(Jupyter%20version).ipynb
 <br>
 <br>
+<br>
