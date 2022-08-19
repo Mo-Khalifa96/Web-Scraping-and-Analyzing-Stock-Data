@@ -5,7 +5,7 @@
 for Data Science', offered online by IBM. It employs a battery of popular Python libraries for data scraping and data analysis, including: 'yfinance' to extract 
 stock data from Yahoo Finance, a quintessential platform for accessing financial news and reports; the 'beautiful soup' library for parsing HTML documents; and 
 'pandas' and 'plotly' libraries for data analysis and visualization. Employing these libraries, I'll web scrape stock as well as (quarterly) revenue data for each 
-of Tesla and GameStop, and then visualize their changes over time on a simple interactive dashboard.**
+of Tesla and GameStop, and then visualize their changes over time on a simple interactive dashboard.** 
 
 <br> 
 
