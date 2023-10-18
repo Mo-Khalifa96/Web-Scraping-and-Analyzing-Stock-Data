@@ -25,7 +25,7 @@ the code from the original script but modified and broken down into separate sec
 ## About The Data
 **The data being analyzed for this project consist of the stock data and revenue amounts (particularly, quarterly revenue) for each of the companies Tesla and GameStop. 
 The stock data for both companies are scraped from Yahoo Finance, which provides financial records of Tesla's stock dated since 2010 and GameStop's stock dated since 2002 
-and up to the present day. As for the revenue data, Tesla's quarterly revenue are scraped from www.macrotrends.net, a platforms that also publishes financial records and 
+and up to the present day. As for the revenue data, Tesla's quarterly revenue is scraped from www.macrotrends.net, a platform that also publishes financial records and 
 reports. However, the quarterly revenue data of GameStop are scraped from a special link provided by IBM for the original project course. I've used here IBM's link for this 
 task especially as it provides the quarterly revenue data for GameStop dated since 2005 whereas websites like 'macrotrends' publishes financial records that date no earlier 
 than 2009.**
@@ -42,10 +42,9 @@ science techniques and tools and to solidify this knowledge and the skills I've 
 <br>
 
 ## Quick Access
-**As per usual, you can access the project quickly from either of the links below. Both will direct you to the Jupyter notebook version with all the input code and resulting output 
+**As per usual, you can access the project quickly from either of the links below. Both will direct you to the Jupyter Notebook version with all the input code and resulting output 
 organized and broken down into separate cells, rendered and ready for viewing. Each cell includes a block of code and its corresponding output, which makes the overall program easier
-to read and interact with. Note however, the first link allows you to view the input code and output only, but without interacting with it. The second link, on the other hand, allows 
-you to both view the input and output and also renders the code executable so that you can reproduce the results yourself if you wish to. If you wish to try the code yourself via the
+to read and interact with. Note however, the first link allows you to view the input code and output only, but without interacting with it. The second link, on the other hand, allows you to both view the input and output and also renders the code executable so that you can reproduce the results yourself if you wish to. If you wish to try the code yourself via the
 second link, make sure to run the first two cells first before executing any of the code below so that the Python packages necessary for the task are installed, imported, and ready 
 for use. To run any given cell, simply select the cell and click on the 'Run' icon on the notebook toolbar.**
 <br>
